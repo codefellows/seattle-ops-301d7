@@ -31,6 +31,10 @@ CompTIA Network+
 
 > Students register for the CompTIA Network+ during course prework, and are asked to take the exam during the final module. The student’s resulting score from taking CompTIA Network+ is then factored into the final grade for this course. Passing this course is largely contingent upon passing CompTIA Network+.
 
+# Suggested Readings
+
+- [CompTIA Network+ Certification All-in-One Exam Guide, Seventh Edition (Exam N10-007)](https://www.amazon.com/CompTIA-Network-Certification-Seventh-N10-007/dp/1260122387/ref=sr_1_1?dchild=1&keywords=comptia+network%2B&qid=1616222820&s=books&sr=1-1)
+
 ## Required Materials
 
 ### Personal Computer/Laptop
