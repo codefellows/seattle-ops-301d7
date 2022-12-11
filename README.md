@@ -131,7 +131,7 @@ This course is composed of four modules, each module with its own theme.
 | 07 | Web Server Deployment | Setup & Configure web services with Nginx | [Ubuntu Server ISO](https://ubuntu.com/download/server#releases) |
 | 08 | RADIUS Authentication | Setup RADIUS, OpenVPN on pfSense | |
 | 09 | Traffic Mirroring | Mimic and Sniff Port Traffic | |
-| 10 | Cloud Networking | AWS VPC | |
+| 10 | AWS VPC | Cloud Infrastructure | |
 
 ### Module 3 - Network Security
 
