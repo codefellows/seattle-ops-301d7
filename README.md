@@ -117,7 +117,7 @@ This course is composed of four modules, each module with its own theme.
 | Class # | Topic | Lab | Download |
 |-----------------|-----------|----------|----------|
 | 01 | Network Traffic Analysis with Wireshark | Filtering with Wireshark | [pfSense ISO](https://www.pfsense.org/download/), [Kali Linux ISO](https://www.kali.org/downloads/) |
-| 02 | Configuring and Monitoring Ports and Protocols | Basic scanning operations with Nmap | [Nmap GUI Download](https://nmap.org/download.html) |
+| 02 | Configuring and Monitoring Ports and Protocols | Basic scanning operations with Nmap | |
 | 03 | Network Segmentation | Create multiple subnets | |
 | 04 | Routing | Deploy pfSense VM to NAT | |
 | 05 | VPN Tunnel | Join two LANs using VPN | |
