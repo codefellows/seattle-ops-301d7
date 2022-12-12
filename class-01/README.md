@@ -37,4 +37,5 @@ Wireshark is capable of network traffic analysis, and is generally regarded as a
 ## Helpful Resources
 
 - [Wireshark](https://www.wireshark.org/)
+- [Wireshark Cheat Sheet](https://www.comparitech.com/net-admin/wireshark-cheat-sheet/)
 - [Kali Linux](https://www.kali.org/downloads/)
