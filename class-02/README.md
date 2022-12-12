@@ -2,9 +2,9 @@
 
 ## Overview
 
-The network mapping tool Nmap is an open source utility commonly used in network discovery ("enumeration" in offensive terms) and security auditing.
+The network mapping tool Nmap is an open source, command line utility commonly used in network discovery ("enumeration" in offensive terms), security auditing, and pentesting. Nmap can audit whether ports are open or closed on a target host.
 
-Today you will perform basic scanning operations in Nmap's GUI, Zenmap. If you're just getting started with Nmap scanning, Zenmap is a fine place to start as its GUI interface assists with translate desired scan types into the respective command line entry.
+Today you will perform a series of basic scanning operations using Nmap and learning more about network ports and protocols.
 
 ## Class Outline
 
@@ -24,11 +24,10 @@ Today you will perform basic scanning operations in Nmap's GUI, Zenmap. If you'r
 
 #### Describe and Define
 
-- Zenmap
 - NMAP
 - Network ports
 - Port scanning
 
 #### Execute
 
-- Perform port scans using Zenmap.
+- Perform port scans using Nmap.
