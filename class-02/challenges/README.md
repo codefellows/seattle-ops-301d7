@@ -12,3 +12,5 @@ Today, you will manipulate a variable in bash to apply today's date to a log fil
 ## Demonstration
 
 Refer to [DEMO.md](DEMO.md)
+
+Replit Demo: <https://replit.com/@HexxKing1/Ops-301d7-Challenge-02#main.sh>
