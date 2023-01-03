@@ -72,7 +72,7 @@ Components of the presentation must include:
     - Installs AD-Domain-Services
     - Creates an AD Forest
     - Creates Organizational Units (OU)
-    - Creates users
+    - Takes a CSV files of users and creates AD users and adds them to the appropriate OUs 
 - E. Final thoughts on how the project went (5 min)
   - E1. The team's approach to planning and communication throughout the project
   - E2. A technical obstacle or two and how those obstacles were overcome
@@ -97,7 +97,7 @@ Technical merit of the project overall is evaluated according the requirements.
 
 ### Deliverables
 
-Submit to instructor a single "Project Report" Google Doc. All team members are to contribute an equal share to documentation corresponding to the components they worked on and should clearly indicate which components each contributed to in their individual project submission notes.
+Your project repository on Github should include a single "Project Report" (either a link to a Google Doc or as Markdown files in the repo). All team members are to contribute an equal share to documentation corresponding to the components they worked on and should clearly indicate which components each contributed to in their individual project submission notes.
 
 Here is a list of requirements the GlobeX VP of Special Projects would like to see addressed in your final project report:
 
@@ -112,6 +112,7 @@ Here is a list of requirements the GlobeX VP of Special Projects would like to s
     - IP address of all devices clearly indicated on network diagram
 - I. How will OS version control be handled?
   - I1. Describe in detail how OS version control will be handled centrally from a server-based solution. Hint: Read [Windows Server Update Services](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus){:target="_blank"}.
+- J. A PDF of your project slides.
 
 
 Teams are encouraged to ask their instructional team for feedback on project report, slide deck, and other deliverables. The client point of contact should be contacted via email regarding scenario-specific scoping.
