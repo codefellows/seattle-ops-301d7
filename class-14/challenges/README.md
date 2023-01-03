@@ -1,4 +1,4 @@
-# Ops Challenge: Python Malware Analysis 
+# Ops Challenge: Python Malware Analysis
 
 ## Overview
 
@@ -10,4 +10,5 @@ Today you will analyze a malicious script written in Python and submit an interp
 
 ## Demonstration
 
-Refer to [DEMO.md](DEMO.md)
+- Refer to [DEMO.md](DEMO.md)
+- Hexx's repl.it demo: <https://replit.com/@HexxKing1/Ops-Challenge-14-Code-Analysis#main.py>
